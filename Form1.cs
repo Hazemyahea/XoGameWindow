@@ -246,57 +246,11 @@ namespace XoGame
 
             }
         }
-        private void pictureBox2_Click(object sender, EventArgs e)
+
+        private void pictureBox_Click(object sender, EventArgs e)
         {
             
-            BoxFuntion(groupBox1, pic00);
-        }
-
-        private void pictureBox8_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic01);
-
-        }
-
-        private void pictureBox7_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic02);
-
-        }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic10);
-
-        }
-
-        private void pictureBox5_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic11);
-        }
-
-        private void pictureBox6_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic12);
-
-
-        }
-
-        private void pictureBox10_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic20);
-
-        }
-
-        private void pictureBox9_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic21);
-
-        }
-
-        private void pictureBox4_Click(object sender, EventArgs e)
-        {
-            BoxFuntion(groupBox1, pic22);
+            BoxFuntion(groupBox1, (PictureBox)sender);
 
         }
 

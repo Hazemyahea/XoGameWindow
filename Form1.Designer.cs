@@ -143,7 +143,7 @@
             this.pic20.TabIndex = 16;
             this.pic20.TabStop = false;
             this.pic20.Tag = "X";
-            this.pic20.Click += new System.EventHandler(this.pictureBox10_Click);
+            this.pic20.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic21
             // 
@@ -156,7 +156,7 @@
             this.pic21.TabIndex = 15;
             this.pic21.TabStop = false;
             this.pic21.Tag = "X";
-            this.pic21.Click += new System.EventHandler(this.pictureBox9_Click);
+            this.pic21.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic01
             // 
@@ -169,7 +169,7 @@
             this.pic01.TabIndex = 14;
             this.pic01.TabStop = false;
             this.pic01.Tag = "X";
-            this.pic01.Click += new System.EventHandler(this.pictureBox8_Click);
+            this.pic01.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic02
             // 
@@ -182,7 +182,7 @@
             this.pic02.TabIndex = 13;
             this.pic02.TabStop = false;
             this.pic02.Tag = "X";
-            this.pic02.Click += new System.EventHandler(this.pictureBox7_Click);
+            this.pic02.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic12
             // 
@@ -195,7 +195,7 @@
             this.pic12.TabIndex = 12;
             this.pic12.TabStop = false;
             this.pic12.Tag = "X";
-            this.pic12.Click += new System.EventHandler(this.pictureBox6_Click);
+            this.pic12.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic11
             // 
@@ -208,7 +208,7 @@
             this.pic11.TabIndex = 11;
             this.pic11.TabStop = false;
             this.pic11.Tag = "X";
-            this.pic11.Click += new System.EventHandler(this.pictureBox5_Click);
+            this.pic11.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic22
             // 
@@ -221,7 +221,7 @@
             this.pic22.TabIndex = 10;
             this.pic22.TabStop = false;
             this.pic22.Tag = "X";
-            this.pic22.Click += new System.EventHandler(this.pictureBox4_Click);
+            this.pic22.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic10
             // 
@@ -234,7 +234,7 @@
             this.pic10.TabIndex = 9;
             this.pic10.TabStop = false;
             this.pic10.Tag = "X";
-            this.pic10.Click += new System.EventHandler(this.pictureBox3_Click);
+            this.pic10.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pic00
             // 
@@ -247,7 +247,7 @@
             this.pic00.TabIndex = 8;
             this.pic00.TabStop = false;
             this.pic00.Tag = "X";
-            this.pic00.Click += new System.EventHandler(this.pictureBox2_Click);
+            this.pic00.Click += new System.EventHandler(this.pictureBox_Click);
             // 
             // pictureBox1
             // 
